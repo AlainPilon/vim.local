@@ -1,4 +1,5 @@
 Bundle 'tpope/vim-unimpaired'
 Bundle 'matze/vim-move'
+Bundle 'terryma/vim-expand-region'
 
 let g:move_key_modifier = 'C'
